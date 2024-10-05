@@ -1,0 +1,19 @@
+{
+  "name": "todo-backendd",
+  "version": "1.0.0",
+  "description": "This is a simple todo application backendd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PranavHarsh"
+  },
+  "author": "Pranav Harsh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "zod": "^3.23.8"
+  }
+}
